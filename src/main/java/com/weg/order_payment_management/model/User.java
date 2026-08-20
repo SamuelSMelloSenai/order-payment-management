@@ -14,7 +14,7 @@ import lombok.Setter;
  *
  * @author samuel_silva-mello
  * @version 1.0
- * @since 2026-01-01
+ * @since 2026-08-20
  */
 
 @Entity
