@@ -1,7 +1,7 @@
 package com.weg.order_payment_management.dto;
 
 /**
- * Representa os dados que seram retornados para o front.
+ * Representa os dados que serão retornados para o front.
  *
  * @param id
  * @param name
